@@ -3,6 +3,8 @@
 
 ## About Me
 - Information Security Student @ Cal Poly Pomona
+- Interested in all things security
+- CPTC and CCDC Competitor 
  
 ## Contact Me
 
