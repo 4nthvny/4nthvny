@@ -3,7 +3,7 @@
 
 ## About Me
 - Information Security Student @ Cal Poly Pomona
-- Interested in all things security
+- Interested in Detection Engineering and Threat Hunting
 - CPTC and CCDC Competitor
 
 ## Certifications 
