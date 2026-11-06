@@ -1,5 +1,5 @@
 # Hi, I'm Anthony 👋
-<img width="1021" height="333" alt="4nthvny" src="https://github.com/user-attachments/assets/d42a2202-c663-4871-8d6d-a585b2f56c0f" />" 
+![4nthvny](./4nthvny-slot-loop.gif)
 
 ## About Me
 - Information Security Student @ Cal Poly Pomona
