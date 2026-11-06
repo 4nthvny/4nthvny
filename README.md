@@ -1,6 +1,5 @@
 # Hi, I'm Anthony 👋
-<img width="1021" height="333" alt="image" src="<img width="1021" height="333" alt="image" src="https://github.com/user-attachments/assets/d42a2202-c663-4871-8d6d-a585b2f56c0f" />
-" />
+<img width="1021" height="333" alt="4nthvny" src="https://github.com/user-attachments/assets/d42a2202-c663-4871-8d6d-a585b2f56c0f" />" 
 
 ## About Me
 - Information Security Student @ Cal Poly Pomona
